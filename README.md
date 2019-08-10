@@ -1,2 +1,9 @@
 # SQL-HospitalDatabase
-Examples of queries I made.
+Examples of basic queries I made for a hospital database.
+
+# What I learned
+* CREATE
+* INSERT
+* SELECT
+* GROUP BY
+* WHERE
