@@ -1,5 +1,5 @@
-# SQL-HospitalDatabase
-Examples of basic queries I made for a hospital database.
+# HospitalDB
+Basic queries I made for a hospital database school project.
 
 # What I learned
 * CREATE
